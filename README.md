@@ -4,13 +4,14 @@
 
 - [multidrag select across sortables #2181](https://github.com/SortableJS/Sortable/pull/2181)
 - [Add option for reverting DOM modifications #2195](https://github.com/SortableJS/Sortable/pull/2195)
+- *Branch Check* Changes from roy-mdr in [roy branch](https://github.com/roy-mdr/Sortable/tree/roy)
+	- [Add Drag In and Drag Out events #2198](https://github.com/SortableJS/Sortable/pull/2198)
 
 ## To add
 
-- [Add Drag In and Drag Out events #2198](https://github.com/SortableJS/Sortable/pull/2198)
+- None
 
 ---
-
 ## Original README
 
 Sortable is a JavaScript library for reorderable drag-and-drop lists.
