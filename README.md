@@ -1,10 +1,19 @@
-# Sortable &nbsp; [![Financial Contributors on Open Collective](https://opencollective.com/Sortable/all/badge.svg?label=financial+contributors)](https://opencollective.com/Sortable) [![CircleCI](https://circleci.com/gh/SortableJS/Sortable.svg?style=svg)](https://circleci.com/gh/SortableJS/Sortable) [![DeepScan grade](https://deepscan.io/api/teams/3901/projects/5666/branches/43977/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=3901&pid=5666&bid=43977) [![](https://data.jsdelivr.com/v1/package/npm/sortablejs/badge)](https://www.jsdelivr.com/package/npm/sortablejs) [![npm](https://img.shields.io/npm/v/sortablejs.svg)](https://www.npmjs.com/package/sortablejs)
+# Sortable
+
+## Merged PRs
+
+- [multidrag select across sortables #2181](https://github.com/SortableJS/Sortable/pull/2181)
+- [Add option for reverting DOM modifications #2195](https://github.com/SortableJS/Sortable/pull/2195)
+
+## To add
+
+- [Add Drag In and Drag Out events #2198](https://github.com/SortableJS/Sortable/pull/2198)
+
+---
+
+## Original README
 
 Sortable is a JavaScript library for reorderable drag-and-drop lists.
-
-Demo: http://sortablejs.github.io/Sortable/
-
-[<img width="250px" src="https://raw.githubusercontent.com/SortableJS/Sortable/HEAD/st/saucelabs.svg?sanitize=true">](https://saucelabs.com/)
 
 ## Features
 
